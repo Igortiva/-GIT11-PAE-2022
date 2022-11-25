@@ -6,7 +6,10 @@ Repositorio para actividad Intermedia - Curso:_”GIT Y HERRAMIENTAS PARA IMPLEM
 
 Repositorio del Equipo de Accesibilidad Web de la Oficina Nacional de Tecnologías de Información
 
-#herramientas web para aprender ramas en Git
+# herramientas web para aprender ramas en Git
+
 [GenBeta](https://www.genbeta.com/desarrollo/learngitbranching-potente-herramienta-online-para-aprender-todo-sobre-git)
+
 [Ingenieria de Software](https://ingenieriadesoftware.es/herramientas-visualizar-aprender-historia-repositorio-git/)
+
 [Desarrolladores Web](https://desarrolloweb.com/articulos/trabajar-ramas-git.html)

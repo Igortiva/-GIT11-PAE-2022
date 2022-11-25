@@ -1,0 +1,58 @@
+# GitLab vs. GitHub: comparativa de ambos sistemas de control de versiones
+GitLab y GitHub son sistemas de control de versiones para la gestión del código fuente en el desarrollo de software. Al trabajar en equipo, estas plataformas permiten a los desarrolladores editar el código fuente, realizar cambios y, quizás el punto más importante, mantener el control sobre los cambios realizados, y todo ello, de manera simultánea. Cada cambio queda registrado de forma rastreable y puede revertirse en caso de que sea necesario.
+
+Tal y como ya hacen sospechar sus nombres, tanto GitLab como GitHub están basados en el software de versiones Git. Este software usa los denominados repositorios, en los que los usuarios cargan el código fuentecorrespondiente para luego poder editarlo en equipo en el navegador, en editores de códigos o en un terminal.
+
+## GitLab vs. GitHub: comparativa de las principales diferencias
+GitLab vs. GitHub: comparativa de las principales diferencias
+Al margen de la similitud principal de su base común en Git, hay algunas diferencias destacables entre GitLab y GitHub. Uno de los factores principales es, por ejemplo, el enorme número de usuarios de GitHub, seguramente el sistema de control de versiones más conocido del mundo y prácticamente el que tiene el monopolio del sector. No es ninguna casualidad que Microsoft adquiriera GitHub en 2018.
+
+Está claro que tanto el tamaño como la posición que GitHub ocupa en el mercado también se reflejan a nivel práctico. La enorme comunidad de usuarios aumenta las posibilidades de encontrar colaboradores para un proyecto propio, sobre todo, en el ámbito del código abierto. Además, la integración de repositorios de otros usuarios es más sencilla. Es la plataforma tiene más desarrolladores trabajando en ella y actualizándola continuamente. Por ello, GitHub está considerada como plataforma más estable y potente.
+
+## Licencias e instalación en servidor propio
+Ambos programas cuentan con una versión gratuita y una versión Enterprise para empresas, que, a su vez, cuenta con numerosas opciones de suscripción con diferentes funciones.
+
+En principio, ambas plataformas se pueden instalar en un servidor propio. Pero, en el caso de GitHub, para ello se requiere la versión Enterprise de pago para realizar. En cambio, GitLab también permite hospedar el programa en un servidor propio con la Community Edition gratuita. La estabilidad del servidor de la variante hospedada de GitLab es ligeramente peor que la de GitHub, por lo que puede resultar muy ventajosa la instalación en un servidor propio.
+
+## GitHub no permite integración continua propia
+Debido a su amplia distribución, GitHub es compatible con muchos programas que facilitan el trabajo en equipo, por ejemplo, Docker, herramientas CI/CD o aplicaciones de gestión de proyectos. En el ámbito de la integración continua es imprescindible, ya que GitHub no ofrece herramientas de integración continua propias. Aquí, GitLab toma la delantera y ofrece integración continua gratuita de fábrica.
+
+## Más derechos de usuario en la versión gratuita de GitLab
+Otro punto que destaca en la comparación GitLab vs. GitHub es que, durante mucho tiempo, la gran ventaja de GitLab era que ofrecía infinitos repositorios gratuitos a sus usuarios, pero GitHub vio su desventaja y ahora también ofrece esta característica. Aun así, GitHub sigue contando con más restricciones en su versión gratuita.
+
+Ambos programas permiten el uso de ramificaciones protegidas, es decir, ramas de desarrollo a las que solo pueden acceder determinados usuarios, pero GitHub solo ofrece esta posibilidad con repositorios públicos, mientras que GitLab también permite el uso de esta función con repositorios privados. La limitación de como máximo tres desarrolladores por cada repositorio privado en GitHub es todavía más restrictiva. Si deseas trabajar en equipos más grandes, no te queda otra que contratar una suscripción y dar el salto a la versión Enterprise.
+
+En general, GitHub ofrece menos derechos de usuario: mientras que GitLab ofrece una gestión de derechos con varios roles por defecto, GitHub exige la suscripción de equipo de pago para acceder a una función similar. Además, GitLab cuenta con un registro de contenedores, en el que los usuarios almacenan sus imágenes Docker creadas con las herramientas CI para luego gestionarlas como parte del repositorio GitLab.
+
+## Misma función, pero terminología diferente
+Como tanto GitHub como GitLab están basados en Git, la migración de una plataforma a la otra no plantea mayores problemas. Por norma general, los repositorios, wikis, solicitudes pull y elementos se importan sin más. No obstante, existen algunas diferencias terminológicas entre las herramientas, tal y como demuestra la siguiente tabla:
+| GitHub | GitLab | Significado                                                            |
+| ------ | ------ | ------                                                                 |
+|Solicitud pull | Solicitud de combinación | Solicitud para integrar una ramificación en el maestro |
+| Gist | Snippet |	Trozo de código |
+| Repositorio |	Proyecto | Contenedor con el repositorio, los anexos y los ajustes específicos del proyecto |
+| Organización | Grupo| Nivel en el que se asignan proyectos a usuarios |
+
+Sobre todo, el término “repositorio” suele generar confusión a la hora de hacer el cambio, ya que muchos usuarios lo usan como sinónimo de “proyecto”, aunque en el caso de GitHub incluye los repositorios Git y los activos del proyecto. Por ello, en GitLab se le llama “proyecto” a este contenedor, con el fin de indicar que incluye todos los datos de proyecto importantes.
+
+## Manejo e interfaz de usuario
+A primera vista GitLab es más ordenado y claro gracias a su interfaz de usuario bien estructurada, razón por la que muchos usuarios afirman que su manejo es más sencillo e intuitivo. En GitLab, los elementos no solo se indican en lista, sino que también se pueden organizar y gestionar en una vista de escritorio.
+
+Otra gran ventaja frente a GitHub es que la interfaz de usuario (UI) de GitLab es escalable y se puede adaptar al tamaño de la pantalla de forma flexible, mientras que GitHub solo ofrece un tamaño estándar fijo. Por ello, en caso de visualización en terminales móviles, GitLab suele ser la mejor elección como alternativa a GitHub.
+
+La comparativa también revela que la edición y creación de códigos es un poco más sencilla en GitLab, ya que la herramienta cuenta con un entorno de desarrollo integrado (IDE). En cambio, GitHub solo cuenta con un editor de textos muy minimalista.
+
+Aunque para ser justos, también hay que decir que estas diferencias quedan en un segundo plano del análisis GitLab vs. GitHub si usas las plataformas en el escritorio y las integras en editores o IDE de terceros, ya que, en este caso, casi no tratamos con la interfaz en sí. Además, si aún no has usado ninguna de las dos herramientas, tendrás que realizar prácticamente el mismo trabajo de familiarización.
+
+## GitLab vs. GitHub: vista general de las principales diferencias
+
+| GitHub | GitLab | 
+| ------ | ------ |
+| Los elementos se pueden rastrear en varios repositorios |	Los elementos no se pueden rastrear en varios repositorios |
+| Los repositorios privados exigen la versión de pago |	Los repositorios privados se permiten en la versión gratuita |
+| No hay opción gratuita de hospedaje en servidor propio |	Opción gratuita de hospedaje en servidor propio |
+| Integración continua solo mediante herramientas de terceros como Travis CI, CircleCI etc. |	Integración continua gratuita incluida |
+| No cuenta con plataforma de implementación integrada |	Implementación de software a través de Kubernetes |
+| Rastreo completo de comentarios |	Sin rastreo de comentarios |
+| No hay opción de exportación de elementos como archivo CSV |	Opción de exportación de elementos como archivo CSV por correo electrónico |
+| Panel personal para rastrear elementos y solicitudes pull |	Panel de análisis para planificar y supervisar proyectos |

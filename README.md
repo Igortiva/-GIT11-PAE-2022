@@ -2,8 +2,9 @@
 Repositorio para actividad Intermedia - Curso:_”GIT Y HERRAMIENTAS PARA IMPLEMENTAR EL CONTROL DE VERSIONES EN APLICACIONES PARA DESARROLLADORES”_
 
 #En el dicrectorio /proyecto_clonado se encuentra los fuentes:
-## Iconos
-Íconos para utilizar en sitios web y productos de la Administración Pública Nacional de la República Argentina.
+## argob /accesibilidad-web
+
+Repositorio del Equipo de Accesibilidad Web de la Oficina Nacional de Tecnologías de Información
 
 #herramientas web para aprender ramas en Git
 [GenBeta](https://www.genbeta.com/desarrollo/learngitbranching-potente-herramienta-online-para-aprender-todo-sobre-git)
